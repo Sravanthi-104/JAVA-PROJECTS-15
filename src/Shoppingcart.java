@@ -16,11 +16,5 @@ public class Shoppingcart{
         total = price * quantity;
         System.out.println("Your total is "+ total + currency + " only.....");
         System.out.println("see you on your next visit !");
-
-
-
-
-
     }
-
 }
